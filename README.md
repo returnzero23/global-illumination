@@ -16,6 +16,10 @@ DX12 开发者博客: https://devblogs.microsoft.com/directx/
 
 - 这有关于 DX12 的最新的消息，不了解一下!?
 
+DirectX-Graphics-Samples: https://github.com/Microsoft/DirectX-Graphics-Samples
+
+- DX12 的官方示例。
+
 
 DX12 学习笔记
 
